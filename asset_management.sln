@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "asset_management", "asset_management.csproj", "{DC6867B2-F4F4-4147-9C9F-B535A79A4BCA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssetManagementSystemLibrary", "..\AssetManagementLibrary\AssetManagementSystemLibrary.csproj", "{0033C340-76CC-4204-A873-D08D8BEBDBA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6867B2-F4F4-4147-9C9F-B535A79A4BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6867B2-F4F4-4147-9C9F-B535A79A4BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6867B2-F4F4-4147-9C9F-B535A79A4BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6867B2-F4F4-4147-9C9F-B535A79A4BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0033C340-76CC-4204-A873-D08D8BEBDBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0033C340-76CC-4204-A873-D08D8BEBDBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0033C340-76CC-4204-A873-D08D8BEBDBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0033C340-76CC-4204-A873-D08D8BEBDBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83757AEC-BBAE-493D-8753-1C24AC738F54}
+	EndGlobalSection
+EndGlobal
